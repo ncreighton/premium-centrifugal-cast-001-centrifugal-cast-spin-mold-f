@@ -1,0 +1,2 @@
+# premium-centrifugal-cast-001-centrifugal-cast-spin-mold-f
+Tired of losing track of spin durations and mold fill ratios across your centrifugal casting projects? Stop guessing and start casting with precision.  This Notion template transforms your centrifugal casting chaos into a streamlined, repeatable workflow. By centralizing all your mold specs, material logs, and project timelines, you'll reduce waste
